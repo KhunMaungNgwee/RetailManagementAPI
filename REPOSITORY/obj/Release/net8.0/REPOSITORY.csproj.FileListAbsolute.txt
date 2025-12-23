@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\bin\Release\net8.0\REPOSITORY.deps.json
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\bin\Release\net8.0\REPOSITORY.dll
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\bin\Release\net8.0\REPOSITORY.pdb
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\bin\Release\net8.0\MODEL.dll
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\bin\Release\net8.0\MODEL.pdb
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.sourcelink.json
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.csproj.Up2Date
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.dll
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\refint\REPOSITORY.dll
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\REPOSITORY.pdb
+C:\Users\Lenovo\Source\Repos\RetailManagementAPI_KhunMgNgwe\REPOSITORY\obj\Release\net8.0\ref\REPOSITORY.dll
